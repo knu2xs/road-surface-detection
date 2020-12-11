@@ -4,9 +4,9 @@ This is an example road crack detection deep learning workflow using an ArcGIS L
 
 ## Getting Started
 
-After cloning the directory, everything you need is in the three notebooks in the notebook directory. They are numered, 
-and are in order. The first notebook sets up all the data, and you only need to run it once. The second, trains the
-model, and the last demonstrates inferencing.
+After cloning the directory, everything you need is in the three notebooks in the [notebook directory](./notebooks). 
+They are numbered, and are in order. The first notebook sets up all the data, and you only need to run it once. The 
+second, trains the model, and the last demonstrates inferencing.
 
 ## Project Organization
 ------------
