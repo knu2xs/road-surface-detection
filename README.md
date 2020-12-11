@@ -1,6 +1,8 @@
 # road-surface-detection
 
-This is an example road crack detection deep learning workflow using an ArcGIS Learn Single Shot Detection model .
+This is an example road crack detection deep learning workflow using an ArcGIS Learn Single Shot Detection model. This
+running demonstration was built off the example notebook with a _lot_ more detailed theoretical explanation included in
+the [Esri documentation demonstrating road surface investigation](https://developers.arcgis.com/python/sample-notebooks/automate-road-surface-investigation-using-deep-learning).
 
 ## Getting Started
 
